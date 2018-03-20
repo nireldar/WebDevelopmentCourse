@@ -42,6 +42,7 @@ margin: 0 auto;
     width: 355px;
     height: 605px;
     border: black solid 0.25px;
+    border-radius: 5px;
     background-color: white;
     opacity: 0.85;
     padding: 20px;
