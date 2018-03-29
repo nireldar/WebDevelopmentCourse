@@ -59,7 +59,7 @@ box-shadow: 0px 5px 20px 5px rgba(0, 0, 0, 0.375);
 }
 
 #formWraper{
-    height: 90%;
+    height: 100%;
     width: 350px;
     margin-left: 30px;
     position: flex;
