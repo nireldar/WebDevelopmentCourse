@@ -428,13 +428,13 @@ box-shadow:inset 0 50px 50px -40px rgba(0, 0, 0, 0.288);
 
 /* footer & last section form */
 #thanks footer{
-  text-align: center;
   position: relative;
   bottom:110px;
   position: flex;
   
 }
   footer{
+    margin-right: -5%;
      text-align: center;
      position: relative;
      margin-top: 80px;
