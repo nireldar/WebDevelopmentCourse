@@ -9,13 +9,17 @@ html, body {
 
 
 }
-#section01, #section02, #section03, #section04, #section05, #thanks {
+#section01, #section02, #section03, #section04, #section05 {
   position: relative;
   width: 100%;
   height: 105%;
-
-
 }
+#thanks{
+  position: relative;
+  width: 100%;
+  height: 85%;
+}
+
 
 
 div h1 {
