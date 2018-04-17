@@ -9,17 +9,13 @@ html, body {
 
 
 }
-#section01, #section02, #section03, #section04, #section05 {
+#section01, #section02, #section03, #section04, #section05, #thanks {
   position: relative;
   width: 100%;
   height: 105%;
-}
-#thanks{
-  position: relative;
-  width: 100%;
-  height: 90%;
-}
 
+
+}
 
 
 div h1 {
@@ -431,7 +427,7 @@ box-shadow:inset 0 50px 50px -40px rgba(0, 0, 0, 0.288);
 /* footer & last section form */
 #thanks footer{
   margin-right: 24%;
-  margin-top: 0px;
+  margin-top: -20px;
   position: flex;
   
 }
@@ -508,7 +504,7 @@ input[type ='text'] ,input[type ='email'],textarea , select {
     color:white;
     border: 0px solid rgb(0, 0, 0);
     border-radius: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     transition: .4s;
 } 
 
